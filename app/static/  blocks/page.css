@@ -1,0 +1,9 @@
+p, h1 {
+    margin: 0;
+  }
+  
+  .page__body {
+    font-family: 'Bitter', serif;
+    margin: 0;
+    margin-block-end: var(--footer-height);
+  }
