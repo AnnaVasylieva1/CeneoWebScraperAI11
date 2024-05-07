@@ -1,28 +1,36 @@
 <!DOCTYPE html>
-<html class="page" lang="en">
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-  <title>Ceneo Web Scraper</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='style.css')}}"> 
+    <title>Ceneo.pl Web Scraper</title>
 </head>
-<body class="page__body">
-  <header class="header">
-    <h1 class="header__header">Ceneo.pl Web Scraper</h1>
-  </header>
+<body>
+    <header>
+    <h1>Ceneo.pl Web Scraper</h1> 
+   <div class="menu">
+        <nav>
+            <li><a href="{{ url_for('index') }}">Index</a></li>
+            <li><a href="{{ url_for('extract') }}">Extract</a></li>
+            <li><a href="{{ url_for('products') }}">Products</a></li>
+            <li><a href="{{ url_for('author') }}">Author</a></li>
+            <li><a href="{{ url_for('product', product_id='your_product_id_here') }}">Product</a></li>
+        </nav>    
+    </div>
+    </header>
+    <section>
+        {% block content %}
+        <p>
+            This is base file
+        </p>
+        {% endblock %}
+    </section>
 
-  <section class="section">
-    {% block content %}
-      <p class="section__description">This is base file</p>
-    {% endblock %}
-  </section>
 
-  <footer class="footer">
-    <p class="footer__author-name">Anna Vasylieva</p>
-    <p class="footer__university">University of economics in Cracow</p>
-  </footer>
+
+    <footer>
+       <p>Anna Vasylieva, Krakow University of Ecomonics</p>
+    </footer>
 </body>
 </html>
