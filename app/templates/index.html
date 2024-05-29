@@ -1,4 +1,20 @@
 {% extends "base.html" %}
+
 {% block content %}
-  <p>This is index file</p>
+        <p>
+            Project's purpose:<br>
+            This web scraper is made for extraction of opinions from a product page of Ceneo.pl and display them using some additional statistical tools <br>
+            The application waits for product code that the user provides, and then it checks the responce from the server. Is response is OK, it continues to extract the whole site DOM, after extraction it takes all opinions and their parts and puts them into a JSON file.<br>
+            Libraries Used:<br>
+            <ul>
+              <li>Pandas</li>
+              <li>Numpy</li>
+              <li>Requests</li>
+              <li>GoogleTranslator</li>
+              <li>JSON</li>
+              <li>BeautifulSoup</li>
+              <li>Matplotlib</li>
+            </ul>
+
+        </p>
 {% endblock %}

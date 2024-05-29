@@ -1,0 +1,26 @@
+{
+    "product_id": "167045559",
+    "product_name": "Dreame X40 Ultra",
+    "opinions_count": 3,
+    "pros_count": 0,
+    "cons_count": 0,
+    "average_score": 5.0,
+    "score_distribution": {
+        "0.0": 0,
+        "0.5": 0,
+        "1.0": 0,
+        "1.5": 0,
+        "2.0": 0,
+        "2.5": 0,
+        "3.0": 0,
+        "3.5": 0,
+        "4.0": 0,
+        "4.5": 0,
+        "5.0": 3
+    },
+    "recommendation_distribution": {
+        "true": 3,
+        "false": 0,
+        "NaN": 0
+    }
+}

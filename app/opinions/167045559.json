@@ -1,0 +1,50 @@
+[
+    {
+        "opinion_id": "18624891",
+        "author": "w...i",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "REWELACJ!!!!!! ALE do pełnego szczęścia brakuje szczotki Tricut bruse !!!",
+            "en": "AWESOME!!!!!! BUT the Tricut bruse brush is missing for complete happiness!!!"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 1,
+        "publish_date": "2024-05-06 09:10:13",
+        "purchase_date": "2024-04-25 14:55:12"
+    },
+    {
+        "opinion_id": "18605940",
+        "author": "z...3",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Robot jest super.  Robi robotę na najwyższym poziomie.",
+            "en": "The robot is great.  He does the job at the highest level."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2024-04-25 22:36:43",
+        "purchase_date": "2024-04-16 13:37:44"
+    },
+    {
+        "opinion_id": "18642503",
+        "author": "a...l",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Wszystko zgodnie z opisem",
+            "en": "Everything as described"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2024-05-13 09:06:44",
+        "purchase_date": "2024-04-29 21:40:42"
+    }
+]
