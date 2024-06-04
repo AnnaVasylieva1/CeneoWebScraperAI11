@@ -5,7 +5,7 @@ h1 {
     margin-top: 30px; /* Adjust top margin for spacing */
     margin-bottom: 30px; /* Adjust bottom margin for spacing */
     font-family: Arial, sans-serif; /* Choose your preferred font family */
-    background-color: #00008B;
+    background-color: #ff6347;
 
 }
 
@@ -40,7 +40,7 @@ body, nav, ul, li {
 
 .menu nav a {
     text-decoration: none;
-    color: #333;
+    color: #008b8b;
     font-weight: bold;
     padding: 5px 10px; /* Add padding to make clickable area larger */
     border: 1px solid #ccc; /* Optional: add border for visual effect */
@@ -48,7 +48,7 @@ body, nav, ul, li {
 }
 
 .menu nav a:hover {
-    background-color: #008b8b; /* Optional: add background color on hover */
+    background-color: #054A39; /* Optional: add background color on hover */
 } 
 
 

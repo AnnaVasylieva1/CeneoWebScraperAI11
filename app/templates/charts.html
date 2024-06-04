@@ -1,0 +1,5 @@
+{% extends "base.html" %}
+{% block content %}
+  <p>This is {{product_id}} product file</p>
+  <a type="button" class="btn btn-outline-dark" href="{{url_for('product', product_id=product_id)}}">opinions</a>
+{% endblock %}
