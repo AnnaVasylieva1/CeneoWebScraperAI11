@@ -6,7 +6,7 @@
     <a href="{{url_for('download_csv', product_id=product_id)}}" class="btn btn-outline-dark">CSV</a>
     <a href="{{url_for('download_xlsx', product_id=product_id)}}" class="btn btn-outline-dark">XLSX</a>
 </div>
-<a type="button" class="btn btn-outline-dark" href="{{url_for('product', product_id=product_id)}}">Charts</a>
+<a type="button" class="btn btn-outline-dark" href="{{url_for('charts', product_id=product_id)}}">Charts</a>
   {{opinions|safe}}
 {% endblock %}
 {% block scripts %}

@@ -78,8 +78,8 @@ def extract():
                 jf = open(f"app/products/{product_id}.json", "w", encoding="UTF-8")
                 json.dump(product, jf, indent=4, ensure_ascii=False)
                 jf.close()
-                if not os.path.exists("app/charts"):
-                    os.mkdir("app/charts")
+                if not os.path.exists("app/static"):
+                    os.mkdir("app/static/charts")
                 fig, ax = plt.subplots()
                 score_distribution.plot.bar(color = "hotpink")
                 plt.xlabel("Number of stars")
@@ -87,7 +87,7 @@ def extract():
                 plt.title(f"Score histogram for {product_name}")
                 plt.xticks(rotation = 0)
                 ax.bar_label(ax.containers[0], label_type='edge', fmt = lambda l: int(l) if l else "")
-                plt.savefig(f"app/charts/{product_id}_score.png")
+                plt.savefig(f"app/static/charts/{product_id}_score.png")
                 plt.close()
                 recommendation_distribution.plot.pie(
                     labels = ["Recommend", "Not recommend", "Indifferent"],

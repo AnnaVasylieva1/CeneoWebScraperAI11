@@ -1,0 +1,628 @@
+[
+    {
+        "opinion_id": "16586671",
+        "author": "m...4",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Byłam sceptycznie nastawiona, kupiłam trochę pod wpływem opinii w necie ale muszę przyznać że zakup uważam za bardzo udany, świetnie i szybko suszy włosy,  nie przegrzewa ich i mam wrażenie że włosy są bardziej miękkie w dotyku i aksamitne a używam dopiero tydzień. Polecam, kupiłabym ponownie.",
+            "en": "I was skeptical, I bought it under the influence of reviews online, but I must admit that the purchase was very successful, it dries my hair very well and quickly, does not overheat it and I have the impression that my hair is softer to the touch and velvety, and I have only been using it for a week. I recommend it, I would buy it again."
+        },
+        "pros": {
+            "pl": [
+                "głośność pracy",
+                "szybkość nagrzewania",
+                "wygląd"
+            ],
+            "en": [
+                "working volume",
+                "heating rate",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-10-03 10:20:31",
+        "purchase_date": "2022-09-30 15:30:29"
+    },
+    {
+        "opinion_id": "17211529",
+        "author": "p...a",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Piekna i niemiłosiernie droga rzecz...w związku z tym iz nie jest dostępny juz prawie nigdzie w Polsce nawet u producenta - przeplacilam jakies prawie 1000zl...no ale upolowalam...działa bez zarzutu...jeszcze nie umiem się posługiwać nim jak na reklamach ale się ucze...naprawdę nie niszczy włosów a technologia jest super nowoczesna... Można tworzyć piękne fryzury nie niszcząc włosów. Cena boli ale chyba warto",
+            "en": "Beautiful and incredibly expensive thing... in connection with the fact that it is almost unavailable anywhere in Poland, even from the manufacturer - I overpaid almost 1000 PLN... but I got it... it works flawlessly... I still don't know how to use it like in the ads, but I'm learning... it really doesn't damage hair and the technology is super modern... You can create beautiful hairstyles without damaging your hair. The price hurts, but it's probably worth it"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-03-01 22:33:09",
+        "purchase_date": "2023-02-18 12:53:07"
+    },
+    {
+        "opinion_id": "18502739",
+        "author": "s...m",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "suszarka super, warta swojej ceny, włosy są miękkie, jak chcę to zwiększam objętość. Trzeba nabrać wprawy, ale super.",
+            "en": "the dryer is great, worth the price, the hair is soft, I add volume when I want. It takes some practice, but it's great."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-03-19 08:11:35",
+        "purchase_date": "2024-03-11 15:56:10"
+    },
+    {
+        "opinion_id": "18517766",
+        "author": "p...i",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Jak do tej pory super. Zbyt krótki czas minął aby poznać wszystkie wady i zalety...",
+            "en": "So far so good. Too short a time has passed to learn all the pros and cons..."
+        },
+        "pros": {
+            "pl": [
+                "głośność pracy",
+                "jakość wykonania",
+                "szybkość nagrzewania",
+                "wygląd"
+            ],
+            "en": [
+                "working volume",
+                "production quality",
+                "heating rate",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-03-22 16:17:33",
+        "purchase_date": "2024-03-06 10:08:59"
+    },
+    {
+        "opinion_id": "18569784",
+        "author": "k...a",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Polecam każdemu, szybko suszy włosy, nie niszczy, idealnie stylizuje",
+            "en": "I recommend it to everyone, it dries hair quickly, does not damage it, styles perfectly"
+        },
+        "pros": {
+            "pl": [
+                "cena",
+                "głośność pracy",
+                "jakość wykonania",
+                "szybkość nagrzewania",
+                "wygląd"
+            ],
+            "en": [
+                "price",
+                "working volume",
+                "production quality",
+                "heating rate",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-04-12 11:34:51",
+        "purchase_date": "2024-03-24 00:56:38"
+    },
+    {
+        "opinion_id": "18028340",
+        "author": "k...z",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "WARTY SWEJ CENY. WŁOSY PO WYSUSZENI JAK PO WIZYCIE U FRYZJERA.",
+            "en": "WORTH THE PRICE. AFTER HAIR IS DRY AS AFTER A VISIT TO THE HAIRDRESSOR."
+        },
+        "pros": {
+            "pl": [
+                "głośność pracy",
+                "jakość wykonania",
+                "szybkość nagrzewania",
+                "wygląd"
+            ],
+            "en": [
+                "working volume",
+                "production quality",
+                "heating rate",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-10-23 15:40:51",
+        "purchase_date": "2023-10-22 13:00:35"
+    },
+    {
+        "opinion_id": "18639809",
+        "author": "g...w",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Partnerka jest bardzo zadowolona więc ja także.",
+            "en": "My partner is very happy and so am I."
+        },
+        "pros": {
+            "pl": [
+                "głośność pracy",
+                "jakość wykonania",
+                "szybkość nagrzewania",
+                "wygląd"
+            ],
+            "en": [
+                "working volume",
+                "production quality",
+                "heating rate",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-05-10 18:42:14",
+        "purchase_date": "2024-04-08 19:25:45"
+    },
+    {
+        "opinion_id": "18475310",
+        "author": "k...4",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Żona jeszcze nie używała ale na pewno będzie zadowolona.",
+            "en": "My wife hasn't used it yet, but she will definitely be pleased."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2024-03-09 06:45:19",
+        "purchase_date": "2024-03-07 09:03:38"
+    },
+    {
+        "opinion_id": "18343694",
+        "author": "k...6",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Suszarka Dyson jest genialna, akcesoria również.",
+            "en": "The Dyson hair dryer is brilliant, and so are the accessories."
+        },
+        "pros": {
+            "pl": [
+                "głośność pracy",
+                "jakość wykonania",
+                "szybkość nagrzewania",
+                "wygląd"
+            ],
+            "en": [
+                "working volume",
+                "production quality",
+                "heating rate",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2024-01-27 15:58:08",
+        "purchase_date": "2024-01-23 21:11:57"
+    },
+    {
+        "opinion_id": "17569856",
+        "author": "a...7",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Wspaniała suszarko lokówka Polecam",
+            "en": "A great dryer and curler, I recommend it"
+        },
+        "pros": {
+            "pl": [
+                "głośność pracy",
+                "szybkość nagrzewania",
+                "wygląd"
+            ],
+            "en": [
+                "working volume",
+                "heating rate",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-06-01 09:56:52",
+        "purchase_date": "2023-05-12 09:59:44"
+    },
+    {
+        "opinion_id": "18099765",
+        "author": "d...k",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Wszystko zgodnie z opisem. Polecam",
+            "en": "Everything as described. I recommend"
+        },
+        "pros": {
+            "pl": [
+                "głośność pracy",
+                "jakość wykonania",
+                "szybkość nagrzewania",
+                "wygląd"
+            ],
+            "en": [
+                "working volume",
+                "production quality",
+                "heating rate",
+                "appearance"
+            ]
+        },
+        "cons": {
+            "pl": [
+                "cena"
+            ],
+            "en": [
+                "price"
+            ]
+        },
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-11-15 11:21:19",
+        "purchase_date": "2023-11-06 09:33:18"
+    },
+    {
+        "opinion_id": "18479238",
+        "author": "j...2",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "jeszcze nie korzystałam",
+            "en": "I haven't used it yet"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-03-11 14:08:05",
+        "purchase_date": "2024-03-06 21:33:06"
+    },
+    {
+        "opinion_id": "18557396",
+        "author": "g...w",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Żona zadowolona. OK",
+            "en": "Wife satisfied. APPROX"
+        },
+        "pros": {
+            "pl": [
+                "głośność pracy",
+                "jakość wykonania",
+                "szybkość nagrzewania",
+                "wygląd"
+            ],
+            "en": [
+                "working volume",
+                "production quality",
+                "heating rate",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-04-08 19:03:59",
+        "purchase_date": "2024-03-26 18:47:34"
+    },
+    {
+        "opinion_id": "18529698",
+        "author": "e...0",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Dostępne i szybkie",
+            "en": "Available and fast"
+        },
+        "pros": {
+            "pl": [
+                "głośność pracy",
+                "jakość wykonania",
+                "szybkość nagrzewania",
+                "wygląd"
+            ],
+            "en": [
+                "working volume",
+                "production quality",
+                "heating rate",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-03-27 13:20:24",
+        "purchase_date": "2024-03-16 14:05:39"
+    },
+    {
+        "opinion_id": "18172997",
+        "author": "g...a",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Żona zadowolona",
+            "en": "Wife satisfied"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-12-05 10:11:25",
+        "purchase_date": "2023-11-24 15:33:19"
+    },
+    {
+        "opinion_id": "18481371",
+        "author": "K...a",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Rewelacja",
+            "en": "Revelation"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-03-12 08:36:15",
+        "purchase_date": "2024-03-04 13:02:09"
+    },
+    {
+        "opinion_id": "18360644",
+        "author": "t...s",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Perfect",
+            "en": "Perfect"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-02-02 08:28:26",
+        "purchase_date": "2024-01-25 19:40:43"
+    },
+    {
+        "opinion_id": "17861215",
+        "author": "r...a",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Swietny",
+            "en": "Great"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-09-01 11:20:08",
+        "purchase_date": "2023-08-24 07:30:34"
+    },
+    {
+        "opinion_id": "18359990",
+        "author": "p...k",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Super",
+            "en": "cool"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-02-02 07:27:56",
+        "purchase_date": "2024-01-30 07:13:04"
+    },
+    {
+        "opinion_id": "18483100",
+        "author": "w...8",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ok",
+            "en": "Approx"
+        },
+        "pros": {
+            "pl": [
+                "głośność pracy",
+                "jakość wykonania",
+                "szybkość nagrzewania",
+                "wygląd"
+            ],
+            "en": [
+                "working volume",
+                "production quality",
+                "heating rate",
+                "appearance"
+            ]
+        },
+        "cons": {
+            "pl": [
+                "cena"
+            ],
+            "en": [
+                "price"
+            ]
+        },
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-03-12 13:33:20",
+        "purchase_date": "2024-03-03 16:51:35"
+    },
+    {
+        "opinion_id": "18354768",
+        "author": "w...7",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ok",
+            "en": "Approx"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-01-31 13:51:42",
+        "purchase_date": "2024-01-18 10:09:43"
+    },
+    {
+        "opinion_id": "18250701",
+        "author": "s...7",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "👍",
+            "en": null
+        },
+        "pros": {
+            "pl": [
+                "głośność pracy",
+                "jakość wykonania",
+                "szybkość nagrzewania",
+                "wygląd"
+            ],
+            "en": [
+                "working volume",
+                "production quality",
+                "heating rate",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-12-28 09:09:24",
+        "purchase_date": "2023-12-21 17:05:51"
+    },
+    {
+        "opinion_id": "16643044",
+        "author": "a...6",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "👍",
+            "en": null
+        },
+        "pros": {
+            "pl": [
+                "głośność pracy",
+                "szybkość nagrzewania",
+                "wygląd"
+            ],
+            "en": [
+                "working volume",
+                "heating rate",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-10-17 22:29:02",
+        "purchase_date": "2022-09-30 13:00:45"
+    },
+    {
+        "opinion_id": "17845696",
+        "author": "M...",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Dyson Airwrap to wysokiej jakości \nlekki i łatwy w użyciu sprzęt.\nPo 2 tygodniach użytkowania stwierdzam, że jego użycie nie powoduje napuszenia, a włosy faktycznie wyglądają na zdrowsze. Jednakże by utrzymać efekty stylizacji potrzebne są produkty stylizacyjne.\nSuszarka jest szybka i mimo mniejszej temperatury świetnie suszy włosy.\nNiestety efekt skrętu nie utrzymuje sięna moich włosach pomimo dodatkowego wsparcia lakieru.",
+            "en": "Dyson Airwrap is high quality \nlight and easy to use equipment.\nAfter 2 weeks of use, I can say that it does not cause frizz and the hair actually looks healthier. However, styling products are needed to maintain styling results.\nThe dryer is fast and, despite the lower temperature, dries hair perfectly.\nUnfortunately, the curl effect does not last on my hair despite the additional support of the hairspray."
+        },
+        "pros": {
+            "pl": [
+                "głośność pracy",
+                "jakość wykonania",
+                "szybkość nagrzewania",
+                "wygląd"
+            ],
+            "en": [
+                "working volume",
+                "production quality",
+                "heating rate",
+                "appearance"
+            ]
+        },
+        "cons": {
+            "pl": [
+                "cena"
+            ],
+            "en": [
+                "price"
+            ]
+        },
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-08-28 20:43:04",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "17776420",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "W sklepie DYSON została mi wykonana szybka stylizacja testowa, która zrobiła na mnie pozytywne wrażenie i dokonałam zakupu.\nPo zakupie już w domu, zaskoczyło mnie mile staranne i dopasowane spakowanie sprzętu w bardzo eleganckie i stylowe opakowanie. \nProdukt jest bardzo wysokiej jakości i świetnie stylizuje włosy.",
+            "en": "I was given a quick test styling in the DYSON store, which made a positive impression on me and I made a purchase.\nAfter purchasing it at home, I was pleasantly surprised by the careful and tailored packaging of the equipment in a very elegant and stylish package. \nThe product is of very high quality and styles hair perfectly."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-08-05 20:34:06",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "17871900",
+        "author": "patrycjaaaa2994",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Jestem bardzo zadowolona z zakupu, po zrezygnowaniu z prostownicy produkt niezastąpiony. Zdecydowanie polecam",
+            "en": "I am very pleased with the purchase, after giving up the straightener the product is irreplaceable. I definitely recommend it"
+        },
+        "pros": {
+            "pl": [
+                "głośność pracy",
+                "jakość wykonania",
+                "wygląd"
+            ],
+            "en": [
+                "working volume",
+                "production quality",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-09-05 17:49:15",
+        "purchase_date": null
+    }
+]
